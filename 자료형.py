@@ -74,4 +74,4 @@ a[:1]+'y'+a[2:] 슬라이싱을 이용하면 가능하긴 하다. 혹은 내가 
     a.upper() = 대문자화 시키기
     a.lower() = 소문자화 시키기
     a.replace('aa','bb') = 'aa'를 'bb'로 치환
-    split과 strip은 알고있기에 생략.
+    split과 strip은 알고있기에 생략..
