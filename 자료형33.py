@@ -20,3 +20,4 @@
 print('agggggggggggddggg')
 print('자료형11로 바꾼후 변dd경.점')
 print('한번더바꿈')
+print('자료형33임')
