@@ -17,5 +17,5 @@
 #     ex)'\'python is good\''
 # [이스케이프 코드] : 문장을 처리할때 편리한 기능을 제공하기 위해 존재. 백슬래쉬와 문자를 조합한 코드.
 #                     ex)\n (줄바꿈), \t(탭), \\(백슬래쉬 문자로서 사용) 등이 있다.
-print('agggggggggggggg')
+print('agggggggggggddggg')
 print('자료형11로 바꾼후 변경.점')
