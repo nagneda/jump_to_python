@@ -19,3 +19,4 @@
 #                     ex)\n (줄바꿈), \t(탭), \\(백슬래쉬 문자로서 사용) 등이 있다.
 print('agggggggggggddggg')
 print('자료형11로 바꾼후 변dd경.점')
+print('한번더바꿈')
