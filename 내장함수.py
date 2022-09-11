@@ -1,7 +1,3 @@
-from re import X
-from tracemalloc import start
-
-
 -내장함수
 파이썬에 기본적으로 내장돼있는 대표적인 내장함수의 종류에 대해 살펴보자.
 
@@ -52,7 +48,7 @@ int('3.4') >>> 3 , int('11',2) >>> 3
 
 12. isinstance : 해당 인스턴스가 해당 클래스의 인스턴스인지 판단. 이즈인스턴스.
 class Car: pass
-
+  
 a=Car()
 b=2
 isinstance(a,Car) >>> True
